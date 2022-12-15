@@ -1,0 +1,15 @@
+C:\Users\mmhdobr\source\repos\zh2\zh2\bin\Debug\net6.0\zh2.exe
+C:\Users\mmhdobr\source\repos\zh2\zh2\bin\Debug\net6.0\zh2.deps.json
+C:\Users\mmhdobr\source\repos\zh2\zh2\bin\Debug\net6.0\zh2.runtimeconfig.json
+C:\Users\mmhdobr\source\repos\zh2\zh2\bin\Debug\net6.0\zh2.dll
+C:\Users\mmhdobr\source\repos\zh2\zh2\bin\Debug\net6.0\zh2.pdb
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.csproj.AssemblyReference.cache
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.AssemblyInfoInputs.cache
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.AssemblyInfo.cs
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.csproj.CoreCompileInputs.cache
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.dll
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\refint\zh2.dll
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.pdb
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\zh2.genruntimeconfig.cache
+C:\Users\mmhdobr\source\repos\zh2\zh2\obj\Debug\net6.0\ref\zh2.dll
